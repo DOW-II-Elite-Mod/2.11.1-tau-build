@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Airburst_fragmentation_launcher_left",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

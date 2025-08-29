@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Missile_Launcher",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

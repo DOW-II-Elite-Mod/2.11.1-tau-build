@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "flamer_left",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Plasma_Rifle_Left",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

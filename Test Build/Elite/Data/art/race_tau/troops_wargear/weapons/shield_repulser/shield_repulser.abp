@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Shield_Repulser",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

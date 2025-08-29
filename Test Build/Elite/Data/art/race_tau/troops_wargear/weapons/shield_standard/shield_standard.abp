@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Shield_standard",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

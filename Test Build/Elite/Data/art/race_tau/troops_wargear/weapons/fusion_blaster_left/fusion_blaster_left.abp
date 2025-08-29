@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "fusion_blaster_left",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

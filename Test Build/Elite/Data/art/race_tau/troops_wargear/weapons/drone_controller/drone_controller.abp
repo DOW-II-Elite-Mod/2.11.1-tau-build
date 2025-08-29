@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Drone_Controller",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

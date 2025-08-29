@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "IG_powerfist_epic",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

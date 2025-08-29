@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "Missile_launcher_fragmentation_right",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}

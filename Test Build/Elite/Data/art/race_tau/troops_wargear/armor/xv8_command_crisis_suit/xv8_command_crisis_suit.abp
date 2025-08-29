@@ -1,0 +1,9 @@
+--[[Auto-generated from Toaster]]
+model =
+{
+    "XV8_command_crisis_suit",
+}
+simvis_attributes =
+{
+    object_scar = 0
+}
